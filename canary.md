@@ -1,6 +1,9 @@
 layout: page
+
 title: "Canarytokens"
+
 permalink: /canary/
+
 
 
 <div class="js-stale-session-flash flash flash-warn flash-banner" hidden="">
