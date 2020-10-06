@@ -1,3 +1,3 @@
 morganism.dev
 
-<a href="click here">canary.html</a>
+<a href="click here">canary.md</a>
