@@ -1,3 +1,3 @@
 morganism.dev
 
-<a href="click here">/canary/</a>
+<a href="https://morganism.dev/canary/">/canary/</a>
